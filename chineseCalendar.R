@@ -169,7 +169,7 @@ compute.chinesefield <- function(gregorianYear,gregorianMonth,gregorianDate){
   return(ans)
 }
 
-#should return 0
+#should return the first Chinese New Year in 2017
 compute.chinesefield(2017,1,29)
 
 
